@@ -87,8 +87,7 @@ def main():
 
     st.markdown("""
         <h2 style="text-align:center; color:#2d3e50;">
-            Dashboard Visualisasi Data Analisis Sentimen Program Magang dan Studi Independen Bersertifikat (MSIB) 
-            <br>Menggunakan Algoritma <span style="color:#007bff;">Naive Bayes Classifier</span>
+            Dashboard Visualisasi Data Analisis Sentimen Program MSIB
         </h2>
         <hr>
     """, unsafe_allow_html=True)

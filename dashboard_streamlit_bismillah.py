@@ -308,5 +308,5 @@ def main():
         )
 
 # PERBAIKAN: Menggunakan _name_ (dua garis bawah)
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
